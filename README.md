@@ -71,18 +71,3 @@ lib/
 2. **Görev Tamamla:** Görev üzerine tıkla
 3. **Görev Sil:** Görevde kaydır veya sil butonuna tıkla
 
-## Katkıda Bulunma
-
-Hataları ve önerileri GitHub Issues üzerinden iletebilirsiniz.
-
-## Lisans
-
-Bu proje açık kaynaktır. Detaylar için LICENSE dosyasına bakın.
-
-## İletişim
-
-Sorularınız için email gönderin veya GitHub üzerinden issue açın.
-
----
-
-Happy Task Tracking! 🚀
